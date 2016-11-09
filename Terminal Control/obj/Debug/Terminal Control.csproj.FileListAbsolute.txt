@@ -1,0 +1,198 @@
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\bin\Debug\TerminalControl.dll
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\bin\Debug\TerminalControl.pdb
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.AboutBox.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.ChangeLogDialog.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.ChangePassphrase.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.Credits.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.LocalShellLoginDialog.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.EditDisplayDialog.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.EditEnvVariable.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.EditEscapeSequenceColor.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.EditRenderProfile.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.EnvVariableList.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.GDialogBar.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.GFontDialog.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.GFrame.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Granados.strings.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Granados.strings_ja.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.IconList.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.icons.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.InputBox.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.KeyGenWizard.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.LineFeedStyleDialog.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.LoginDialog.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.LogNoteForm.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.MacroList.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.MacroEnv.MacroTraceWindow.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.MainForm.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.ModuleProperty.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.MultiPaneControl.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.OptionDialog.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.SendingLargeText.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.SerialConfigForm.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.SerialLoginDialog.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.ServerInfo.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.SSHShortcutLoginDialog.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.strings.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.strings_ja.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.TabBar.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\WalburySoftware.TerminalControl.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Terminal.rulechars.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Terminal.strings.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Terminal.strings_ja.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.ThreeButtonMessageBox.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.WelcomeDialog.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\Poderosa.Forms.XModemDialog.resources
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\ResGen.read.1.tlog
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\ResGen.write.1.tlog
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\TerminalControl.dll
+C:\Users\kallm\Desktop\Terminal Control jan 2009\Terminal Control\obj\Debug\TerminalControl.pdb
+C:\DEV\c#\nighterSSH\Terminal Control\bin\Debug\TerminalControl.dll
+C:\DEV\c#\nighterSSH\Terminal Control\bin\Debug\TerminalControl.pdb
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.AboutBox.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.ChangeLogDialog.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.ChangePassphrase.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.Credits.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.LocalShellLoginDialog.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.EditDisplayDialog.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.EditEnvVariable.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.EditEscapeSequenceColor.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.EditRenderProfile.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.EnvVariableList.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.GDialogBar.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.GFontDialog.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.GFrame.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Granados.strings.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Granados.strings_ja.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.IconList.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.icons.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.InputBox.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.KeyGenWizard.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.LineFeedStyleDialog.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.LoginDialog.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.LogNoteForm.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.MacroList.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.MacroEnv.MacroTraceWindow.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.MainForm.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.ModuleProperty.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.MultiPaneControl.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.OptionDialog.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.SendingLargeText.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.SerialConfigForm.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.SerialLoginDialog.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.ServerInfo.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.SSHShortcutLoginDialog.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.strings.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.strings_ja.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.TabBar.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\WalburySoftware.TerminalControl.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Terminal.rulechars.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Terminal.strings.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Terminal.strings_ja.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.ThreeButtonMessageBox.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.WelcomeDialog.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.XModemDialog.resources
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\ResGen.read.1.tlog
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\ResGen.write.1.tlog
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\TerminalControl.dll
+C:\DEV\c#\nighterSSH\Terminal Control\obj\Debug\TerminalControl.pdb
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\bin\Debug\TerminalControl.dll
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\bin\Debug\TerminalControl.pdb
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.AboutBox.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.ChangeLogDialog.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.ChangePassphrase.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.Credits.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.LocalShellLoginDialog.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.EditDisplayDialog.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.EditEnvVariable.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.EditEscapeSequenceColor.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.EditRenderProfile.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.EnvVariableList.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.GDialogBar.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.GFontDialog.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.GFrame.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Granados.strings.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Granados.strings_ja.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.IconList.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.icons.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.InputBox.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.KeyGenWizard.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.LineFeedStyleDialog.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.LoginDialog.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.LogNoteForm.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.MacroList.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.MacroEnv.MacroTraceWindow.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.MainForm.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.ModuleProperty.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.MultiPaneControl.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.OptionDialog.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.SendingLargeText.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.SerialConfigForm.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.SerialLoginDialog.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.ServerInfo.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.SSHShortcutLoginDialog.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.strings.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.strings_ja.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.TabBar.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\WalburySoftware.TerminalControl.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Terminal.rulechars.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Terminal.strings.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Terminal.strings_ja.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.ThreeButtonMessageBox.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.WelcomeDialog.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Poderosa.Forms.XModemDialog.resources
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Terminal Control.csproj.GenerateResource.Cache
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\TerminalControl.dll
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\TerminalControl.pdb
+C:\private\coding\DEV\c#\NighterSSH2\Terminal Control\obj\Debug\Terminal Control.csprojResolveAssemblyReference.cache
+C:\workspace\NighterSSH\Terminal Control\bin\Debug\TerminalControl.dll
+C:\workspace\NighterSSH\Terminal Control\bin\Debug\TerminalControl.pdb
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Terminal Control.csprojResolveAssemblyReference.cache
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.AboutBox.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.ChangeLogDialog.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.ChangePassphrase.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.Credits.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.LocalShellLoginDialog.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.EditDisplayDialog.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.EditEnvVariable.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.EditEscapeSequenceColor.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.EditRenderProfile.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.EnvVariableList.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.GDialogBar.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.GFontDialog.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.GFrame.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Granados.strings.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Granados.strings_ja.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.IconList.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.icons.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.InputBox.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.KeyGenWizard.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.LineFeedStyleDialog.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.LoginDialog.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.LogNoteForm.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.MacroList.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.MacroEnv.MacroTraceWindow.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.MainForm.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.ModuleProperty.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.MultiPaneControl.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.OptionDialog.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.SendingLargeText.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.SerialConfigForm.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.SerialLoginDialog.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.ServerInfo.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.SSHShortcutLoginDialog.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.strings.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.strings_ja.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.TabBar.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\WalburySoftware.TerminalControl.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Terminal.rulechars.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Terminal.strings.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Terminal.strings_ja.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.ThreeButtonMessageBox.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.WelcomeDialog.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Poderosa.Forms.XModemDialog.resources
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\Terminal Control.csproj.GenerateResource.Cache
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\TerminalControl.dll
+C:\workspace\NighterSSH\Terminal Control\obj\Debug\TerminalControl.pdb

@@ -1,0 +1,33 @@
+﻿<Window x:Class="NighterSSH.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="NighterSSH" Height="422.5" Width="735.833" WindowStartupLocation="CenterScreen" Opacity="0.9" AllowsTransparency="True" WindowStyle="None" Background="{x:Null}" Visibility="Visible" MouseDown="Window_MouseDown">
+
+<Grid>	
+	
+	<Rectangle Fill="#FF0C0C0C" HorizontalAlignment="Left" Height="389" Margin="10,10,0,0" RadiusY="16.098" RadiusX="16.098" Stroke="Black" VerticalAlignment="Top" Width="715.833" Opacity="0.9"/>
+	<Label Content="Username" HorizontalAlignment="Left" FontSize="25" Margin="107,178,0,0" VerticalAlignment="Top" Foreground="white" />
+	<Label Content="Password" HorizontalAlignment="Left" FontSize="25" Margin="107,225,0,0" VerticalAlignment="Top" Foreground="white" RenderTransformOrigin="0.585,1.305" />
+        <TextBox Name="username" HorizontalAlignment="Left" Height="27" Margin="261,191,0,0" VerticalAlignment="Top" Width="195" Background="#FF272424" Foreground="White" FontSize="16"/>
+        <PasswordBox Name="ppassword" HorizontalAlignment="Left" Margin="261,238,0,0" VerticalAlignment="Top" Width="195" Height="27" Background="#FF211B1B" Foreground="White" FontSize="16" />
+
+        <Button Style="{DynamicResource GlassButton}" Margin="261,300.318,300.833,71.472" Content="Login" RenderTransformOrigin="0.5,0.502" Click="Button_Click_2" />
+
+	 <Button Margin="649,20,10,351" Click="Button_Click_1">
+    			<Button.Template>
+    				<ControlTemplate>
+    					<Image Source="gtk-close.png"/>
+    				</ControlTemplate>
+    			</Button.Template>
+    		</Button>
+
+	 <TextBlock Margin="78.186,40.849,369.636,0" TextWrapping="Wrap" Text="NighterSSH" VerticalAlignment="Top" Height="80.277" FontSize="48" FontFamily="Segoe UI" Foreground="#FF8298FF" FontWeight="Bold"/>
+        <TextBox x:Name="address" HorizontalAlignment="Left" Height="27" Margin="261,149,0,0" VerticalAlignment="Top" Width="195" Background="#FF272424" Foreground="White" FontSize="16"/>
+        <Label Content="Address" HorizontalAlignment="Left" FontSize="25" Margin="124,136,0,0" VerticalAlignment="Top" Foreground="white" />
+
+
+
+    </Grid>
+	
+
+</Window>
